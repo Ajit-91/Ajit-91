@@ -34,7 +34,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ajit-91&show_icons=true&locale=en&theme=tokyonight"/>
 </a>
 <a>
-  <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=ajit-91&theme=nord" />
+  <img height="295em" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ajit-91&theme=nord" />
 </a>
 </p>
 
